@@ -1,0 +1,10 @@
+id,PRODUCTO,CANTIDAD_VENDIDA,PRECIO VENTA,FECHA,VENDEDOR,PAGO,TOTAL,MINIMO,comision vendedor,minimo_actual,id_inventario,costo_unitario,costo_total,,prod,tipo_prod,
+1,Passport - 700ml -- 8,1,141.3,2020-12-04,DIEGO,EFECTIVO,141.3,138.00,3.32,140,Passport - 700ml -- 8,134,134.3,4.3%,Passport - 700ml,whisky,3.75
+2,Don Ramon plata punta diamante - 750ml -- 2,1,250.0,2020-12-05,MAU,EFECTIVO,250.0,215.00,35.00,215,Don Ramon plata punta diamante - 750ml -- 2,187,186.8,15.1%,Don Ramon plata punta diamante - 750ml,tequila,28.25
+3,Don Ramon reposado punta diamante - 750ml -- 1,1,270.0,2020-12-05,DIEGO,EFECTIVO,270.0,249.00,21.00,249,Don Ramon reposado punta diamante - 750ml -- 1,217,217.0,14.7%,Don Ramon reposado punta diamante - 750ml,tequila,32.00
+4,Jack Daniels Apple - 700ml -- 9,1,410.0,2020-12-11,DIEGO,EFECTIVO,410.0,374.00,36.00,325,Jack Daniels Apple - 700ml -- 9,322,322.0,0.9%,Jack Daniels Apple - 700ml,whisky,52.00
+5,Bacardi blanco - 980ml -- 18,2,200.0,2020-12-12,MAU,EFECTIVO,400.0,366.00,34.00,320,Bacardi blanco - 980ml -- 18,158,315.0,1.6%,Bacardi blanco - 980ml,ron,51.00
+6,Chivas Regal 13 Tequila - mixologia - 750ml -- 5,1,600.0,2020-12-15,MAU,TRANSFERENCIA,600.0,570.00,30.00,570,Chivas Regal 13 Tequila - mixologia - 750ml -- 5,496,496.0,14.9%,Chivas Regal 13 Tequila - mixologia - 750ml,whisky,74.00
+7,Passport - 700ml -- 8,1,165.0,2020-12-22,DIEGO,EFECTIVO,165.0,140.00,25.00,140,Passport - 700ml -- 8,134,134.3,4.3%,Passport - 700ml,whisky,5.75
+8,Passport - 700ml -- 10,1,165.0,2020-12-25,CARLOS,EFECTIVO,165.0,145.00,20.00,145,Passport - 700ml -- 10,120,120.0,20.8%,Passport - 700ml,whisky,25.00
+9,Rancho escondido tamarindo - 1000ml -- 43,1,104.0,2020-12-25,DIEGO,TRANSFERENCIA,104.0,104.00,0.00,95,Rancho escondido tamarindo - 1000ml -- 43,85,84.5,12.4%,Rancho escondido tamarindo - 1000ml,destilado,19.50
